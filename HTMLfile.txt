@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		Password: <input type="password" id="password" onkeyup="get_result()"><br><br>
+		Strength: <progress value="0" max="5" id="strength"></progress>
+	</body>
+</html>
